@@ -1,23 +1,24 @@
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
-<img src="./img" alt="GitHUB" align="center" >
+### "Web View"
+<img src="./img/1.web.png" alt="GitHUB" align="center" >
+<img src="./img/2.web.png" alt="GitHUB" align="center" >
+
+### "Mobile View"
+<img src="./img/3.mobile.png" alt="GitHUB" align="center" >
+<img src="./img/4.mobile.png" alt="GitHUB" align="center" >
 
 
-# Getting Started with Data Entry App
+# Getting Started with Note Taking App.
 
-<a href="" target="blank">Data Entry App</a>
+<a href="https://huzaifanizam.github.io/Note_App/" target="blank">Note Taking App.</a>
 
 
-### " Data Entry App using HTML, CSS &amp; JavaScript"
+### " Note Taking App using HTML, CSS &amp; JavaScript"
 
 Overview of practice
 
-It's a  Simple practice made by using HTML, CSS &amp; JavaScript.
+It's a  Note Taking App made by using HTML, CSS &amp; JavaScript.
 
-The practice app is created by [Huzaifa Nizam](https://www.linkedin.com/in/huzaifa-nizam-741631264) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
-
+Note Taking App is created by [Huzaifa Nizam](https://www.linkedin.com/in/huzaifa-nizam-741631264) 
 ## Show some :heart: and :star: the repo if you like the design.
 
 - 📫 How to reach me **nizamhuzaifa@gmail.com**
