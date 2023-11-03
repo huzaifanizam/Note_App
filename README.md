@@ -33,6 +33,9 @@ Note Taking App is created by [Huzaifa Nizam](https://www.linkedin.com/in/huzaif
 
 
 git init
+git status
+git add .
+git status
 git add README.md
 git commit -m "first commit"
 git branch -M main
